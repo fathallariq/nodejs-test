@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-test",
+  "version": "1.1.1",
+  "description": "bikin project nodejs-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "test",
+    "faiz",
+    "athallariq"
+  ],
+  "author": "https://instagram.com/faizzt85",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.19",
+    "rupiah-format": "^1.0.0"
+  }
+}
